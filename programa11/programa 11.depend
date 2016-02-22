@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1454367222 source:c:\users\calix1\desktop\mariacalixprogra\programa 11\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
